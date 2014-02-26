@@ -26,6 +26,7 @@ public class MainActivity extends Activity implements OnClickListener //No funci
 		linux = (ImageView) findViewById(R.id.iv2);
 		mozilla = (ImageView) findViewById(R.id.iv3);
 		android = (ImageView) findViewById(R.id.iv4);
+		boton = (Button) findViewById(R.id.boton);
 		
 		apple.setOnClickListener(this);
 		linux.setOnClickListener(this);
