@@ -9,7 +9,7 @@ import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
-public class MainActivity extends Activity implements OnClickListener //No funciona
+public class MainActivity extends Activity implements OnClickListener
 {
 	ImageView apple,android,linux,mozilla,imagenPrincipal;
 	Button boton;
