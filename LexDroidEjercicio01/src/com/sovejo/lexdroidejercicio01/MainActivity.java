@@ -1,4 +1,4 @@
-package com.sovejo.ejercicio01;
+package com.sovejo.lexdroidejercicio01;
 
 import android.os.Bundle;
 import android.view.View;
